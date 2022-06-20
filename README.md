@@ -1,2 +1,2 @@
 # Description
-A repository for ALX project, usin bagrant to emulate a virtual environment
+A repository for ALX project, using vagrant to emulate a virtual environment
